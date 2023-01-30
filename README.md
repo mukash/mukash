@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Generic badge](https://img.shields.io/badge/React-Native-Red.svg)]() [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/JavaScript-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Git-Black.svg)]()
+[![Generic badge](https://img.shields.io/badge/React-Native.svg)]() [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/JavaScript-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Git-Black.svg)]()
 #
 ![Mukash's github stats](https://github-readme-stats.vercel.app/api?username=mukash&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true&hide=stars,issues)
 <!--
