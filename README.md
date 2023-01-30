@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukash)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mukash/mukash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
