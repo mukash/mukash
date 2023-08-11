@@ -1,5 +1,4 @@
-### Hello World 👋
-<h1 align="center">Hi 👋, I'm Mukash Wasti</h1>
+<h1 align="center">Hello World 👋, I'm Mukash Wasti</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukash" alt="mukash" /></a> </p>
@@ -26,9 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukash&show_icons=true&locale=en" alt="mukash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukash&" alt="mukash" /></p>
-
-#
-![Mukash's github stats](https://github-readme-stats.vercel.app/api?username=mukash&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true&hide=issues)
 <!--
 **mukash/mukash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
