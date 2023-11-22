@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mkwasti@icloud.com**
 
-- 📄 Know about my experiences [https://mukashwasti.tech/static/media/resume.7acdbd3ffbcd9f4a8e78.pdf](https://mukashwasti.tech/static/media/resume.7acdbd3ffbcd9f4a8e78.pdf)
+- 📄 Know about my experiences [https://www.mukashwasti.com/static/media/resume.7acdbd3ffbcd9f4a8e78.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
