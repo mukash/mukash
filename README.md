@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukash" alt="mukash" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [mukashwasti.com](mukashwasti.com)
+- 👨‍💻 All of my projects are available at [here](mukashwasti.com)
 
 - 📫 How to reach me **mkwasti@icloud.com**
 
-- 📄 Know about my experiences [here](https://www.mukashwasti.com/static/media/resume.7acdbd3ffbcd9f4a8e78.pdf)
+- 📄 Know about my experiences [here](https://www.mukashwasti.com/static/media/resume.64eaee2ddee171694cfa.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
