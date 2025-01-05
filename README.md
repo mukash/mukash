@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukash" alt="mukash" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [here](https://www.mukashwasti.com)
+- 👨‍💻 All of my projects are available at [mukashwasti.com](https://www.mukashwasti.com)
 
 - 📫 How to reach me **mkwasti@icloud.com**
 
