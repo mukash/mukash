@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Mukash Wasti</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Full-Stack Developer with 7+ years of experience</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukash" alt="mukash" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mkwasti@icloud.com**
 
-- 📄 Know about my experiences [here](https://www.mukashwasti.com/static/media/resume.64eaee2ddee171694cfa.pdf)
+- 📄 Know about my experiences [here](https://www.mukashwasti.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
